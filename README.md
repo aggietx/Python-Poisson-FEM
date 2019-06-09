@@ -1,2 +1,2 @@
-# Python-Poisson-FEM
-Python version FEM for Poisson
+# Python3-Poisson-FEM
+Python3 version FEM for Poisson
